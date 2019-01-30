@@ -1,3 +1,3 @@
 # learning
 self learning 
-take it easy
+- take it easy
